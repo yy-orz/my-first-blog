@@ -1,7 +1,0 @@
-*.pyc
-*~
-__pycache__
-yyvenv
-db.sqlite3
-/static
-.DS_Store
